@@ -1,0 +1,10 @@
+gcc public01.c student.c -o public01.x;
+gcc public02.c student.c -o public02.x;
+gcc public03.c student.c -o public03.x;
+gcc public04.c student.c -o public04.x;
+gcc public05.c student.c -o public05.x;
+gcc public06.c student.c -o public06.x;
+gcc public07.c student.c -o public07.x;
+gcc public08.c student.c -o public08.x;
+gcc public09.c student.c -o public09.x;
+gcc public10.c student.c -o public10.x;
