@@ -1,0 +1,17 @@
+#include "functions.h"
+
+/* Write your implementations of the functions in this source file.
+ * Skeleton versions of the functions already appear below.
+ */
+
+int sum_of_cubes(int n) {
+  return 12345;
+}
+
+int quadrant(int x, int y) {
+  return 54321;
+}
+
+int num_occurrences_of_digit(long num, int digit) {
+  return 98765;
+}
