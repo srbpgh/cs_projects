@@ -3,9 +3,7 @@
 #include <pthread.h>
 #include <string.h>
 #include <stdlib.h>
-/* (c) Larry Herman, 2019.  You are allowed to use this code yourself, but
- * not to provide it to anyone else.
- */
+/* Shaun Birch srbpgh 115938328 */
 
 /* Counts the number of words, lines, and characters in the files whose
  * names are given as command-line arguments.  If there are no command-line
