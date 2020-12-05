@@ -1,0 +1,1 @@
+This project implements a deck of cards with various poker hands in java

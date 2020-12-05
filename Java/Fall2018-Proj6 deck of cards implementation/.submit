@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131-010x
+#  Project ProjEG-06: ProjEG-06
+
+courseName=CMSC131-010x
+semester=201808
+projectNumber=ProjEG-06
+courseKey=c96b9983f4b70d21
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2018
+submitURL=https://submit.cs.umd.edu:443/fall2018/eclipse/SubmitProjectViaEclipse
